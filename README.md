@@ -6,6 +6,7 @@ This repository contains a jupyter notebook of the code to execute this project 
 
 ## Dataset Contents
 Each dataset contains a large number of columns and were therefore cleaned before completing the analysis. The columns that were cleaned and eventually used for analysis in this project are described below
+
 |Column|Description|
 |---|---|
 |id|Row ID as indicated in original datasets|
